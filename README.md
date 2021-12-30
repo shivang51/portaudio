@@ -1,5 +1,5 @@
 # portaudio
-PortAudio x86 prebuilt libraries for windows
+PortAudio x86 and x64 prebuilt static and dynamic libraries for windows
 
 Add it to your project with:
 ````bash
