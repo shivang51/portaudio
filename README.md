@@ -6,6 +6,6 @@ This repo provides `prebuilt libraries` and `include files` to add port audio in
 
 Add it to your project with:
 ````bash
-git submodule add https://github.com/shivang51/portaudio libs/portaudio 
+git submodule add https://github.com/shivang51/portaudio external/portaudio 
 ````
 To get started with portaudio you can read these [PortAudio Tutorials](http://www.portaudio.com/docs/v19-doxydocs/tutorial_start.html).
